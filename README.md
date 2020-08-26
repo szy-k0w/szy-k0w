@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Szymon</h1>
 <h3 align="center">Junior Front End Developer from Poland</h3>
 <ul>
-  <li>💻My CV is available [<b>here</b>](https://drive.google.com/file/d/1nru5uMBXkjfcw1qX-LftxBssr0ZLJsHQ/view?usp=sharing)</li>
+  <li>💻My CV is available <b>[here](https://drive.google.com/file/d/1nru5uMBXkjfcw1qX-LftxBssr0ZLJsHQ/view?usp=sharing)</b></li>
   <li>📫 How to reach me <b>szymon.kowalski2000@gmail.com</b></li>
 </ul>
 <br/>
